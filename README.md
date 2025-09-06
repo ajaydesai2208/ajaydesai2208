@@ -14,9 +14,9 @@
 
 ### `<// ABOUT ME />`
 
-[cite_start]I am a Software Engineer skilled in developing scalable applications, optimizing performance, and integrating AI solutions. [cite: 4] [cite_start]I'm passionate about leveraging my experience with cloud technologies and end-to-end development to drive innovation and efficiency. [cite: 5]
+I am a Software Engineer skilled in developing scalable applications, optimizing performance, and integrating AI solutions. I'm passionate about leveraging my experience with cloud technologies and end-to-end development to drive innovation and efficiency.
 
--   [cite_start]🧠 I'm currently working with **LangChain, the OpenAI API, and Weaviate vector databases**. [cite: 13, 16]
+-   🧠 I'm currently working with **LangChain, the OpenAI API, and Weaviate vector databases**.
 -   💡 I'm open to collaborating on projects related to **FinTech, AI-powered platforms, and Cloud applications**.
 -   💬 Ask me about anything, I am happy to help.
 
